@@ -1,0 +1,4 @@
+.idea/
+.git/
+# Project exclude paths
+/target/
